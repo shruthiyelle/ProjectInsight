@@ -1,0 +1,14 @@
+tkinter 
+customtkinter
+PIL 
+cv2
+util
+pymongo
+CTkMessagebox 
+face_recognition
+pickle
+smtplib
+email.message 
+ssl
+vlc
+matplotlib
